@@ -8,7 +8,7 @@ The course is closed so I uploaded all the codes for record/reference purpose. P
 Lab content summary:
 
 1. `Lab 0`: VM setup
-2. `Lab 1`: perform your first course lab where you will learn about the Spark data model, transformations, and actions, and write a word counting program to count the words in all of Shakespeare's plays
+2. `Lab 1`: learn about the Spark data model, transformations, and actions, and write a word counting program to count the words in all of Shakespeare's plays
 3. `Lab 2`: use Spark to explore a NASA Apache web server log in the second course lab 
 4. `Lab 3`: perform text analysis and entity resolution on Google and Amazon product listings using Spark. `TF-IDF` is implemented .
 5. `Lab 4`: use Spark's `mllib` Machine Learning library to perform collaborative filtering on a movie dataset in the fourth course lab 
