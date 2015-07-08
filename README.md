@@ -7,7 +7,7 @@ The course is closed so I uploaded all the codes for record/reference purpose. P
 
 Lab content summary:
 
-1. `Lab 0`: VM setup
+- `Lab 0`: VM setup
 2. `Lab 1`: learn about the Spark data model, transformations, and actions, and write a word counting program to count the words in all of Shakespeare's plays
 3. `Lab 2`: use Spark to explore a NASA Apache web server log in the second course lab 
 4. `Lab 3`: perform text analysis and entity resolution on Google and Amazon product listings using Spark. `TF-IDF` is implemented .
