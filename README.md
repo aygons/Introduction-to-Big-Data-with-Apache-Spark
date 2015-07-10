@@ -13,4 +13,4 @@ Lab content summary:
 4. `Lab 3`: perform text analysis and entity resolution on Google and Amazon product listings using Spark. `TF-IDF` is implemented .
 5. `Lab 4`: use Spark's `mllib` Machine Learning library to perform collaborative filtering on a movie dataset in the fourth course lab 
 
-![Course Certification](https://github.com/aygons/Introduction-to-Big-Data-with-Apache-Spark/blob/master/progress.PNG?raw=true")
+![Course Certification](https://github.com/aygons/Introduction-to-Big-Data-with-Apache-Spark/blob/master/Certificate.pdf)
