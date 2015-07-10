@@ -1,5 +1,5 @@
 # Introduction-to-Big-Data-with-Apache-Spark
-BerkeleyX -  CS100.1x
+[BerkeleyX -  CS100.1x](https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/info)
 
 This a very good introductory course for Spark but requires a bit background on Python. I started late so 20% of the scores were deducted for `setup` and `lab 1`. `Lab 3` is one of best practice I have ever done. Highly recommend for anyone who’s interested in PySpark.
 
